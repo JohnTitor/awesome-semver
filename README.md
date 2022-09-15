@@ -6,14 +6,27 @@ A curated list of awesome implementations, tools, resources for SemVer specifica
 
 - [Awesome SemVer](#awesome-semver)
   - [Parsers/evaluators](#parsersevaluators)
+  - [Tools](#tools)
 - [Contributing](#contributing)
 - [License](#license)
 
 ## Parsers/evaluators
 
+### Python
+
+- [python-semver/python-semver](https://github.com/python-semver/python-semver): Python package to work with Semantic Versioning
+
+### Rust
+
 - [dtolnay/semver](https://github.com/dtolnay/semver): Parser and evaluator for Cargo's flavor of Semantic Versioning
+
+### Swift
+
 - [sloik/Major.Minor.Patch](https://github.com/sloik/Major.Minor.Patch): Implementation of https://semver.org in Swift.
 
+## Tools
+
+- [semantic-release/semantic-release](https://github.com/semantic-release/semantic-release): Fully automated version management and package publishing
 
 ## Contributing
 
